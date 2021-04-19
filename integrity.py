@@ -28,7 +28,6 @@ def get_file_dict(input_file, directory):
         result.append({'filename': os.path.join(os.path.abspath(directory), parts[0]),
                        'method': parts[1].lstrip().rstrip().lower(),
                        'hash': parts[2]})
-    print(result)
     return result
 
 
