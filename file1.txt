@@ -1,0 +1,6 @@
+QA Automation Engineer (update 2020-03-15).docx MD5 d5211e469cadc864c396ab373d39481f
+QA Automation Engineer (update 2020-03-15).docx MD5 d52115469cadc864c396ab373d39481f
+data-2021-04-16-structure-2016-01-01.csv SHA256 d3151d0ada74bf91ddfafb30b842d11991d4ff14913329d06e62e5ab406a1efd
+dffdfd.hui SHA1 DFGSDFg
+data-2021-04-16-structure-2016-01-01.csv SHA1 fcade81021ae1d0b9a4d6a261bb936449b59d46d
+notification_Sankt-Peterburg_2021020100_2021030100_001.xml.zip SHA1 67ad167d887f130ac752324f9ef24f474b75eb92
