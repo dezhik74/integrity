@@ -17,4 +17,6 @@ file_04.txt OK
   
 # ОТВЕТ
 файл integrity.py
-все остальное - пример.
+все остальное - для примера.
+python integrity.py file1.txt .
+
